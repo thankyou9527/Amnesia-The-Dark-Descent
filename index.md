@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/j24576931000/Amnesia-The-Dark-Descent/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/j24576931000/Amnesia-The-Dark-Descent/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  <p>一款由Frictional Games開發的恐怖生存遊戲,玩家扮演丹尼爾,他在Brennenburg城堡的一個大廳里醒來,喪失了對自己過去的記憶,只記得自己的名字以及正在被追殺,遊戲方式是動作與解謎-------------
+ 部分取自<a href="https://zh.wikipedia.org/wiki/%E5%A4%B1%E5%BF%86%E7%97%87%EF%BC%9A%E9%BB%91%E6%9A%97%E5%90%8E%E8%A3%94">維基百科</a></p>
+  
+<p>----------影片----------</p>
+<p>Amnesia: The Dark Descent</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hyUf3Ctx-Ck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p> <a href="https://j24576931000.github.io/HORROR-GAME/">上一頁</a></p>
